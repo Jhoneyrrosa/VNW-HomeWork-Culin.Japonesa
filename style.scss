@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ header {
+    display: flex;
+     img {
+        margin: 2em 0 0 4em;
+      }
+       nav {
+        margin: 2em 0 0 15em;
+        gap: 2em;
+       }
+ }
+ 
